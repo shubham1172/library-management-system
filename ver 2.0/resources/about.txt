@@ -1,0 +1,24 @@
+Library Management System
+  ver 2.0  
+@author - Shubham Sharma.
+
+NEW: \    Faster and efficient algorithm.
+  G.U.I. for easy operations.  Database Encrypted.
+    Increased number of login attempts(3).
+FIXED:
+    Adding books Bugs.
+    Input Bugs.
+    Date Format.
+    OutofBoundExceptions.
+    Empty data feeds.
+    Editing Bugs.
+
+USER MANUAL:
+Start void main().enter to run the codes.
+Logging in as a student allows to freely browse the books.  It has an open database.
+Administrator is a protected user.
+admin1172 & password1172 can be used to log into it.
+Administrative interface consists of various operations on books like adding, editing, deleting, issuing, returning etc.
+Password can also be changed as per convenience.
+
+Will keep developing further :) --- shubhamsharma1172@gmail.com;
