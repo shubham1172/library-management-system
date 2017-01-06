@@ -33,7 +33,7 @@ FIXED:<br/>
     Editing Bugs.<br/>
 
 ## USER MANUAL:
-Start void main().enter to run the codes.
+Start enter.java to run the codes.
 Logging in as a student allows to freely browse the books.  It has an open database.
 Administrator is a protected user.
 admin1172 & password1172 can be used to log into it.
